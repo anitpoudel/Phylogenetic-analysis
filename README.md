@@ -1,7 +1,7 @@
-# Phylogenetic-analysis
+# Phylogenetic analysis
 Phylogenetics studies sequence similarities to infer how closely they are related in terms
 of evolutionary distance. The more similar and conserved the sequences are, the closer their
-common ancestors are.
+common ancestors.
 
 ## Purpose
 It helps to know the evolutionary time period of a sequence or a species.
