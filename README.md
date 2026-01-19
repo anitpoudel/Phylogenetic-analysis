@@ -54,8 +54,8 @@ PROCTCATAUTO automatically selects the best model
 3. Run the script phylogenetic.sbatch
 
 # Outputs
-RAxML_info.tree.nwk
-RAxML_bootstrap.tree.nwk
-RAxML_bipartitions.tree.nwk
-RAxML_bipartitionsBranchLabels.tree.nwk
-RAxML_bestTree.tree.nwk
+RAxML_info.output.nwk
+RAxML_bootstrap.output.nwk
+RAxML_bipartitions.output.nwk
+RAxML_bipartitionsBranchLabels.output.nwk
+RAxML_bestTree.output.nwk
